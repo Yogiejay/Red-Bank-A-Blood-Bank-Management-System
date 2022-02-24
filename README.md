@@ -1,0 +1,2 @@
+# Red-Bank-A-Blood-Bank-Management-System
+As we know, a blood bank plays a very important role in treatments of major injuries or surgeries. If blood is not supplied to a patient within a set period of time, the patient's chances of losing their lives increases dramatically. It is also obvious that conventional blood bank systems have a lot of disadvantages, they are quite time-consuming, error-prone and also lack in data-integrity. To overcome these problems, the project Blood Bank Management System is proposed.
